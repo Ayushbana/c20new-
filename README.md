@@ -1,2 +1,2 @@
-# c20new-
-algoridthms
+# collisionAlgorithm
+Algorithm to detect collision between two objects
